@@ -3,5 +3,5 @@
 ### a test...
 #### test...
 [My Profile](https://github.com/ojojojoj)
-![Foo](http://xiaocao.u.qiniudn.com/blog/logo-java.png)
+![Foo](https://avatars0.githubusercontent.com/u/25073169?v=3&amp;s=460)
 
